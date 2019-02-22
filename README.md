@@ -1,4 +1,4 @@
-# Dajngo templates IC
+# Django templates IC
 
 Using the Computer model, build multiple template pages that handle 404
 
